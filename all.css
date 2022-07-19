@@ -4,7 +4,6 @@
     box-sizing: border-box;
     font-family: Microsoft JhengHei;
 }
-/* 上方為CSS reset */
 .wrap {
     margin: 0 auto;
     width: 1200px;
